@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+  }
+
+p{
+    font-family: 'Koulen', cursive;
+    font-size: 20px;
+    margin: 20px;
+    padding: 30px;
+}
+
+a{
+    text-align: center;
+    position:relative;
+}
+
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
